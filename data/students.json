@@ -20,5 +20,11 @@
     "name": "Pauline Tan",
     "cohort": 1,
     "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Pauline+Tan"
+  },
+   {
+
+    "name": "Li Yongde",
+    "cohort": 1,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Li+Yongde"
   }
 ]
